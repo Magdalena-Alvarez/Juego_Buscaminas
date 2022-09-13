@@ -3,4 +3,4 @@ Intento de recrear el juego buscaminas en lenguaje Python.
 - En el juego se representan las bombas como 'x'.
 
 ### Comentarios:
-- Aún no extensibe, tamaño fijo.
+- Aún no extensible, tamaño fijo.
